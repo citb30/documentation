@@ -13,5 +13,6 @@ $ curl -s https://raw.githubusercontent.com/linuxautomations/scripts/master/init
 ### 4. Next Goto Images in "Compute Engine" and Click on New Image.
 
 name: mycentos7
+
 source-disk : name-of-the-server
 
